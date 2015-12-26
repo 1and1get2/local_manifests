@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!--
+    <project name="1and1get2/android_kernel_samsung_jfdcm" path="kernel/samsung/jfdcm" remote="github" />
+    <project name="kbc-developers/android_device_samsung_jf-common" path="device/samsung/jfdcm" remote="github" />
+    <project name="kyasu/android_vendor_samsung_jfdcm" path="vendor/samsung/jfdcm" remote="github" />
+    <project name="1and1get2/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
+
+    -->
+</manifest>
